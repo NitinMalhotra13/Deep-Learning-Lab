@@ -166,6 +166,66 @@ Backpropagation is used to update the network weights by minimizing the **Mean S
 
 ---
 
+# Assignment 5: Deep Learning Model with Optimization Techniques
+
+## Objective
+
+Improve model performance using optimization techniques.
+
+## Description
+
+This assignment focuses on enhancing model performance using techniques such as hyperparameter tuning and model comparison.
+
+### Steps Involved
+
+1. Load and preprocess dataset  
+2. Train baseline model  
+3. Apply hyperparameter tuning  
+4. Compare results  
+5. Evaluate model performance  
+
+## Technologies Used
+
+- Python  
+- NumPy  
+- Pandas  
+- Scikit-learn  
+
+---
+
+# Assignment 6: Advanced Deep Learning Models
+
+## Objective
+
+Implement advanced neural network architectures for sequence modeling.
+
+## Description
+
+This assignment explores modern deep learning models for handling sequential data and complex patterns.
+
+### Models Implemented
+
+- Recurrent Neural Network (RNN)  
+- Long Short-Term Memory (LSTM)  
+- Gated Recurrent Unit (GRU)  
+
+### Steps Involved
+
+1. Dataset loading  
+2. Data preprocessing  
+3. Model implementation  
+4. Training and evaluation  
+5. Performance comparison  
+
+## Technologies Used
+
+- Python  
+- NumPy  
+- Pandas  
+- Scikit-learn  
+
+---
+
 # Requirements
 
 Install the required Python libraries:
